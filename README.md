@@ -4,10 +4,10 @@ This is a simple HTML, CSS, and JavaScript project that displays a monthly calen
 
 ## Table of Contents
 
-### Description
-### Usage
-### Files
-### License
+### • Description
+### • Usage
+### • Files
+### • License
 
 
 ## Description
