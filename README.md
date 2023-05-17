@@ -2,13 +2,13 @@
 
 This is a simple HTML, CSS, and JavaScript project that displays a monthly calendar. It shows the current month with the corresponding dates and highlights the current day.
 
-Table of Contents
+## Table of Contents
 
-Description
-Usage
-Files
-License
-Description
+### Description
+#### Usage
+#### Files
+#### License
+#### Description
 
 The Month Calendar project consists of an HTML file, a CSS file, and a JavaScript file. It creates a visually appealing calendar interface that dynamically updates the dates based on the current month and highlights the current day.
 
@@ -18,7 +18,7 @@ The CSS file (style.css) defines the visual appearance of the calendar. It sets 
 
 The JavaScript file (script.js) handles the dynamic generation of the calendar. It uses the JavaScript Date object to retrieve the current month, last day of the month, and first day of the month. Based on this information, it populates the calendar with the corresponding dates. It also applies a CSS class to highlight the current day.
 
-Usage
+## Usage
 
 To use the Month Calendar, follow these steps:
 
@@ -29,7 +29,7 @@ The calendar will be displayed, showing the current month with the corresponding
 
 Feel free to modify the styling in the CSS file (style.css) to suit your preferences. You can customize the colors, fonts, and dimensions to create a calendar design that matches your needs.
 
-Files
+## Files
 
 The Month Calendar project includes the following files:
 
