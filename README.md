@@ -43,3 +43,9 @@ License
 The Month Calendar project is released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. Refer to the LICENSE file for more information.
 
 Please note that this project utilizes HTML, CSS, and JavaScript, which may have their own licensing considerations. Make sure to review the licenses associated with these technologies before using or distributing them in your own projects.
+
+## License
+
+The Month Calendar project is released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. Refer to the LICENSE file for more information.
+
+Please note that this project utilizes HTML, CSS, and JavaScript, which may have their own licensing considerations. Make sure to review the licenses associated with these technologies before using or distributing them in your own projects.
