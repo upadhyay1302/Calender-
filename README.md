@@ -5,10 +5,12 @@ This is a simple HTML, CSS, and JavaScript project that displays a monthly calen
 ## Table of Contents
 
 ### Description
-#### Usage
-#### Files
-#### License
-#### Description
+### Usage
+### Files
+### License
+
+
+## Description
 
 The Month Calendar project consists of an HTML file, a CSS file, and a JavaScript file. It creates a visually appealing calendar interface that dynamically updates the dates based on the current month and highlights the current day.
 
